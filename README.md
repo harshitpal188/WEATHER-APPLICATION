@@ -94,6 +94,7 @@ npm start
 
 ## OUTPUT
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ee6db375-07d3-4b57-bfa9-b02f89642d23" />
 
 
 
